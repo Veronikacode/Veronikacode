@@ -8,9 +8,12 @@
 </div>
 
 ### :woman_technologist: About Me :
+<div align="center">
 <img alt="Logo" align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
- * :seedling: I’m currently learning Python
- * :book: Treats my github as a diary where I can see my progress over time
+</div>
+
+* :seedling: I’m currently learning Python
+* :book: Treats my github as a diary where I can see my progress over time
 
 
 ### :hammer_and_wrench: Languages and Tools :
