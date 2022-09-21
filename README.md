@@ -6,7 +6,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98991020/191608264-dc524e61-8ebb-4f70-920b-41bb1f3fbff9.gif" width="600" height="300"/>
 </div>
+
 ---
+
+
 ### :woman_technologist: About Me :
 <div align="center">
 <img alt="Logo" align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
