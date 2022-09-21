@@ -14,9 +14,8 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  [![My Skills](https://skillicons.dev/icons?i=git,github,py,vscode)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,py,vscode)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronikacode)](https://github.com/anuraghazra/github-readme-stats)
 
