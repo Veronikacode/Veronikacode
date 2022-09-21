@@ -21,7 +21,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,py,vscode)](https://skillicons.dev)<div>   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/> </div>
+[![My Skills](https://skillicons.dev/icons?i=git,github,py,vscode)](https://skillicons.dev)<div><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/> </div>
 
 
 
