@@ -12,13 +12,10 @@
 - 🌱 I’m currently learning Python
 - 📖 Treats my github as a diary where I can see my progress over time
 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+  [![My Skills](https://skillicons.dev/icons?i=git,github,py,vscode)](https://skillicons.dev)
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veronikacode)](https://github.com/anuraghazra/github-readme-stats)
